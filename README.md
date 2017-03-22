@@ -32,5 +32,5 @@ This is a repository to practice using Git and GitHub.
   * Raju
   * Arunachalam
   * Shriguru
-  * Vishwa Poojitha
+  * Vishwa Poojitha - IT Web and mobility
   * Divakar
